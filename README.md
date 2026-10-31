@@ -1,66 +1,64 @@
+☁️ This week, I spent some time learning about the AWS Migration Framework.
 
-s
+Before this, I mostly thought cloud migration was about moving applications and databases to the cloud.
 
-The first phase of a cloud migration begins with a cloud readiness assessment of your enterprise's current state. These assessment tasks give you a clear picture of what you will migrate, as well as a business case for migration and total cost of ownership (TCO) analysis for migration.
+What I learned is that AWS treats migration as a journey with three phases:
 
-A Migration Readiness Assessment (MRA) is a process that provides you with the following:
+🔎 Assess
+ 🏗️ Mobilize
+ 🚀 Migrate
 
-An understanding about how far along your enterprise is in the cloud journey
+🔎 Assess
 
-An understanding of your current strengths and weaknesses in relation to a cloud-ready enterprise
+The journey starts with a Migration Readiness Assessment (MRA).
 
-An action plan to close identified gaps
+This helps organizations understand:
 
-This assessment is based on the AWS Cloud Adoption Framework (AWS CAF) and its six perspectives: business, people, governance, platform, security, and operations. Using this framework during the assessment phase helps ensure that you have a holistic view of the transformation initiative that will support an effective move to the cloud.
+✅ Where they are in their cloud journey
+ ✅ Their strengths and weaknesses
+ ✅ What gaps need to be addressed
 
-The assess phase includes a rapid discovery process with high-level TCO assessment in addition to the MRA. These steps will be useful as you progress toward obtaining stakeholder commitment and funding for the larger initiatives that follow.
+The assessment is based on the AWS Cloud Adoption Framework (AWS CAF), which looks at six areas:
 
-For more information, see Assess phase.
+📊 Business
+ 👥 People
+ ⚖️ Governance
+ 🖥️ Platform
+ 🔐 Security
+ ⚙️ Operations
 
-Mobilize
+Another interesting part of this phase is the rapid discovery process and a high-level Total Cost of Ownership (TCO) assessment.
 
-With a strong understanding of your current state and your portfolio along with the solid business case, you develop in the assessment phase, you can demonstrate the value of the cloud to your organization.
+These activities help build the business case, gain stakeholder commitment, and secure funding for the larger initiatives that follow.
 
-The goal of the mobilize phase is to build foundational capability both in the organization and with the AWS environment with hands-on migration experience focused on security and operations automation. This process brings together your portfolio of tools and practices in a scalable and secure landing zone, which is an orchestration framework for your foundational AWS environment. In this phase, you migrate a small set of business applications to the cloud, while enforcing an agile and scalable delivery culture, team structure, and change management process.
+🏗️ Mobilize
 
-The AWS mobilize approach includes a defined set of activities across eight distinct workstreams:
+With a clear understanding of the current state, the next step is building the foundations for migration.
 
-Detailed business case
+This includes:
 
-Detailed portfolio discovery
+☁️ AWS Landing Zone
+ 📂 Detailed Portfolio Discovery
+ 🛡️ Security, Risk & Compliance
+ 📋 Migration Governance
+ ⚙️ Operations
+ 👨‍💻 Skills, Culture, Change & Leadership
+ 📦 Application Migration
 
-Application migration
+One thing that stood out to me is that a small set of applications is migrated during this phase. This helps teams gain hands-on experience while building secure and scalable foundations.
 
-Migration governance
+🚀 Migrate
 
-AWS landing zone
+Once the patterns, processes, tools, and methodologies have been tested, organizations can start migrating applications at scale.
 
-Security, risk, and compliance
+AWS refers to this as a Migration Factory - a blueprint for scaling implementation and operations through automation and agile delivery.
 
-Operations
+💡 Key learning:
 
-People: skills, culture, change, and leadership
+A successful cloud migration starts long before the first application is moved.
 
-With this approach, activities under these workstreams are delivered across eight two-week sprints.
+MRA, AWS CAF, TCO assessments, AWS Landing Zones, governance, security, operating models, and skills development all play an important role in building the foundation for cloud adoption.
 
-Mobilize delivers the following outcomes:
+👨‍💻 Next up: some hands-on labs! Looking forward to getting my hands dirty with Application Migration, Database Migration, and AWS Transform to see how these concepts work in practice.
 
-Improve your IT staff's skill and competency for migration and organizational transformation by building confidence with methodology, processes, and tooling.
-
-Define and automate security, risk, and compliance policies to accommodate operational controls.
-
-Define and implement an AWS landing zone that can scale as you migrate additional applications.
-
-Establish your cloud operating model.
-
-Run applications in production capacity.
-
-Migration during the mobilize phase is an iterative process that evolves as your organization develops new skills, tools, and capabilities. These skills and capabilities build momentum and accelerate your migration efforts over time. Establishing the right foundation to build on is key to a successful migration. The AWS migration framework balances the business and technical efforts needed to complete a cloud migration. This model helps you identify key business drivers for migration and the best strategies for planning and implementing a successful cloud migration.
-
-For more information, see Mobilize phase.
-
-Migrate
-
-The migrate phase uses the patterns, processes, tools, resources, and methodology defined and tested during the mobilize phase to migrate applications at scale. After using the best practices and lessons learned from the earlier phases, you can implement a migration factory, which is a blueprint of scaling implementation and operations, through automation and agile delivery.
-
-For more information, see Migrate phase.
+#AWS #CloudMigration #AWSCAF #MigrationReadinessAssessment #TCO #AWSLandingZone #MigrationFactory #ApplicationMigration #DatabaseMigration #AWSTransform #CloudComputing #CloudTransformation #LearningInPublic #TechLearning #AWSCommunity
