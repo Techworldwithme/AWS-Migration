@@ -5,35 +5,26 @@ Before this, I mostly thought cloud migration was about moving applications and 
 What I learned is that AWS treats migration as a journey with three phases:
 
 🔎 Assess
-
  🏗️ Mobilize
-
  🚀 Migrate
 
 🔎 Assess
 
 The journey starts with a Migration Readiness Assessment (MRA).
 
-This helps organisations understand:
+This helps organizations understand:
 
 ✅ Where they are in their cloud journey
-
  ✅ Their strengths and weaknesses
-
  ✅ What gaps need to be addressed
 
 The assessment is based on the AWS Cloud Adoption Framework (AWS CAF), which looks at six areas:
 
 📊 Business
-
  👥 People
-
  ⚖️ Governance
-
  🖥️ Platform
-
  🔐 Security
-
  ⚙️ Operations
 
 Another interesting part of this phase is the rapid discovery process and a high-level Total Cost of Ownership (TCO) assessment.
@@ -47,17 +38,11 @@ With a clear understanding of the current state, the next step is building the f
 This includes:
 
 ☁️ AWS Landing Zone
-
  📂 Detailed Portfolio Discovery
-
  🛡️ Security, Risk & Compliance
-
  📋 Migration Governance
-
  ⚙️ Operations
-
  👨‍💻 Skills, Culture, Change & Leadership
-
  📦 Application Migration
 
 One thing that stood out to me is that a small set of applications is migrated during this phase. This helps teams gain hands-on experience while building secure and scalable foundations.
@@ -74,7 +59,6 @@ A successful cloud migration starts long before the first application is moved.
 
 MRA, AWS CAF, TCO assessments, AWS Landing Zones, governance, security, operating models, and skills development all play an important role in building the foundation for cloud adoption.
 
-👨‍💻 Next up: some hands-on labs! Looking forward to getting my hands dirty with Application Migration and Database Migration to see how these concepts work in practice.
+👨‍💻 Next up: some hands-on labs! Looking forward to getting my hands dirty with Application Migration, Database Migration, and AWS Transform to see how these concepts work in practice.
 
-#AWS #CloudMigration ##ApplicationMigration #DatabaseMigration #CloudComputing #CloudTransformation #TechLearning #AWSCommunity
-
+#AWS #CloudMigration #AWSCAF #MigrationReadinessAssessment #TCO #AWSLandingZone #MigrationFactory #ApplicationMigration #DatabaseMigration #AWSTransform #CloudComputing #CloudTransformation #TechLearning #AWSCommunity
