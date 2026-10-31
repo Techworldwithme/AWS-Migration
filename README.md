@@ -12,7 +12,7 @@ What I learned is that AWS treats migration as a journey with three phases:
 
 The journey starts with a Migration Readiness Assessment (MRA).
 
-This helps organizations understand:
+This helps organisations understand:
 
 ✅ Where they are in their cloud journey
  ✅ Their strengths and weaknesses
@@ -59,6 +59,4 @@ A successful cloud migration starts long before the first application is moved.
 
 MRA, AWS CAF, TCO assessments, AWS Landing Zones, governance, security, operating models, and skills development all play an important role in building the foundation for cloud adoption.
 
-👨‍💻 Next up: some hands-on labs! Looking forward to getting my hands dirty with Application Migration, Database Migration, and AWS Transform to see how these concepts work in practice.
-
-#AWS #CloudMigration #AWSCAF #MigrationReadinessAssessment #TCO #AWSLandingZone #MigrationFactory #ApplicationMigration #DatabaseMigration #AWSTransform #CloudComputing #CloudTransformation #LearningInPublic #TechLearning #AWSCommunity
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/84d36dfc-97fe-422d-aea1-d5a68c0b5d1a" />
