@@ -60,3 +60,6 @@ A successful cloud migration starts long before the first application is moved.
 MRA, AWS CAF, TCO assessments, AWS Landing Zones, governance, security, operating models, and skills development all play an important role in building the foundation for cloud adoption.
 
 <img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/84d36dfc-97fe-422d-aea1-d5a68c0b5d1a" />
+
+
+#AWS #CloudMigration #AWSCAF #MigrationReadinessAssessment #TCO #AWSLandingZone #MigrationFactory #ApplicationMigration #DatabaseMigration #AWSTransform #CloudComputing #CloudTransformation #LearningInPublic #TechLearning #AWSCommunity
